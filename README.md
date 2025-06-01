@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Wordpress Theme Development.
+🔭 I’m currently working at Infinum as a Web Engineer.
 How to reach me: petrac.vedran@gmail.com
 
 
